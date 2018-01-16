@@ -9,12 +9,13 @@ https://gist.githubusercontent.com/ndibek/80af91eade925aea40631cd718b6a60f/raw/8
 
 
 Following are the tools installed on the VM:
+
 | Tool | Description |
 | ---- | ----------- |
 | Chrome | Google Chrome Browser |
-| Notepad++ | |
-| Pivotal Cloud Foundry cli | |
+| Notepad++ |  |
+| Pivotal Cloud Foundry cli |  |
 | Eclipse | Eclipse IDE |
 | Putty | Putty Terminal |
-| Visual Studio 2017 Professional | |
-| Sql Server 2017 Dev | |
+| Visual Studio 2017 Professional |  |
+| Sql Server 2017 Dev |  |
